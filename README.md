@@ -1,8 +1,6 @@
 # Breast-Cancer-Detection-Using-Artificial-Neural-Networks
 Classifying the tumors as 'Malignant' or 'Benign' using ANN.
 
-The following code shows the use of ANN to predict the presence or absence of heart disease.
-
 Details:
 
 Malignant - class 1
